@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<showcase>
+	<showcase.markettiers4dc.com>
+		<database>
+			<type>pdo_mysql</type>
+			<config>
+				<m4dc>1</m4dc>
+				<host>db.markettiers4dc.com</host>
+				<dbname>webchats_prometheus</dbname>
+				<username>webchats</username>
+				<password>M3l1s$4_Gr1n</password>
+			</config>
+		</database>
+		<config>
+			<globals>
+				<date_default_timezone>Europe/London</date_default_timezone>
+				<session_expiry_seconds>10</session_expiry_seconds>
+				<session_method_cookie>100</session_method_cookie>
+				<session_method_query>101</session_method_query>
+				<smarty_frontend_compile_dir>smarty/frontend/compile</smarty_frontend_compile_dir>
+				<smarty_frontend_template_dir>smarty/frontend/templates/</smarty_frontend_template_dir>
+				<smarty_backend_template_dir>smarty/backend/templates/</smarty_backend_template_dir>
+				<smarty_backend_compile_dir>smarty/backend/compile</smarty_backend_compile_dir>
+			</globals>	
+			<constants>
+				<build_environment>production</build_environment>
+				<protocol>http</protocol>
+				<debug_mode>1</debug_mode>
+				<job_main_name>Campaign</job_main_name>
+				<content_main_name>Phase</content_main_name>
+				<home_url>/</home_url>
+			</constants>	
+		</config>
+		<cache>
+			<frontend>
+				<type>Core</type>
+				<options>
+					<lifeTime>0</lifeTime>
+					<automaticSerialization>false</automaticSerialization>
+					<writeControl>true</writeControl>
+					<automaticCleaningFactor>10</automaticCleaningFactor>				
+				</options>
+			</frontend>
+			<backend>
+				<type>Zend_Platform</type>
+			</backend>
+		</cache>
+	</showcase.markettiers4dc.com>
+
+	<stgshowcase.markettiers4dc.com extends="showcase.markettiers4dc.com">
+		<database>
+			<type>pdo_mysql</type>
+			<config>
+				<m4dc>1</m4dc>
+				<host>db.markettiers4dc.com</host>
+				<dbname>stg_markettiers4dc_showcase</dbname>
+				<username>stg_showcase</username>
+				<password>82jdmd7G</password>
+			</config>
+		</database>
+		<cache>
+			<frontend>
+				<type>Core</type>
+				<options>
+					<lifeTime>7200</lifeTime>
+					<automaticSerialization>false</automaticSerialization>
+					<writeControl>true</writeControl>
+					<automaticCleaningFactor>10</automaticCleaningFactor>				
+				</options>
+			</frontend>
+			<backend>
+				<type>File</type>
+				<options>
+					<fileLocking>false</fileLocking>
+					<readControl>true</readControl>
+					<readControlType>crc32</readControlType>
+					<hashedDirectoryLevel>2</hashedDirectoryLevel>
+					<fileNamePrefix>firewire</fileNamePrefix>
+				</options>
+			</backend>
+		</cache>
+	</stgshowcase.markettiers4dc.com>
+	
+	<rodrigo.training.com extends="stgshowcase.markettiers4dc.com">
+		<database>
+			<type>pdo_mysql</type>
+			<config>
+				<m4dc>1</m4dc>
+				<host>localhost</host>
+				<dbname>firewire</dbname>
+				<username>rodrigo</username>
+				<password>pitspits</password>
+			</config>
+		</database>
+	</rodrigo.training.com>
+	
+</showcase>

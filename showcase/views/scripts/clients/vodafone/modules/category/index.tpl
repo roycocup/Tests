@@ -1,0 +1,1 @@
+{include file="view:/clients/vodafone/modules/index/index.tpl"}

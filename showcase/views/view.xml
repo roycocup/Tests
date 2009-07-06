@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<view>
+	<production>
+		<smarty>
+		
+			<params>
+				<plugins_dir>:baseDir/helpers</plugins_dir>
+				<default_resource_type>view</default_resource_type>
+			</params>
+			
+			<plugins>
+				<view>
+					<type>resource</type>
+					<parameters />
+				</view>
+			</plugins>
+			
+		</smarty>
+	</production>
+	
+	<development extends="production"/>
+	
+</view>

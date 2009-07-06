@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="KioskV3Server" default="finalize" basedir=".">
+
+	
+	<property name="kiosk.source.dir" value="c:\dev\kioskV3" override="true" />
+	<property name="kiosk.tar.name" value="kiosk.tar.gz" override="true" />
+	<property name="archives.dir" value="./archives" override="true" />
+
+	<fileset dir="${kiosk.source.dir}" id="kioskSourceFiles">
+		<include name="**" />
+		<exclude name="flash/**" />
+		<exclude name="ise/**" />
+		<exclude name="resources/**" />
+	</fileset>
+
+
+	<target name="prepare">
+		<mkdir dir="${archives.dir}" />
+	</target>
+
+	<target name="archive" depends="prepare">
+		<tar destfile="${archives.dir}/${kiosk.tar.name}" compression="gzip">
+			<fileset refid="kioskSourceFiles" />
+		</tar>
+	</target>
+
+	<target name="finalize" depends="archive">
+			<echo msg="All files archived! Install done" />
+	</target>
+	
+</project>

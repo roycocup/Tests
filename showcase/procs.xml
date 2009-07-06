@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<marquis>
+	<install>
+	<!-- these are for initial setup of the site the first time -->
+	</install>
+	<procs>
+		<session_update_expired>
+			<parameters>
+				<old_key datatype="string" />
+				<new_key datatype="string" />
+				<session datatype="string" />
+				<user datatype="integer" />
+				<agent datatype="string" />
+				<ip datatype="string" />
+			</parameters>			
+		</session_update_expired>
+		<session_create>
+			<parameters>
+				<new_key datatype="string" />
+				<session datatype="string" />
+				<user datatype="integer" />
+				<agent datatype="string" />
+				<ip datatype="string" />
+			</parameters>	
+		</session_create>
+		<session_load>
+			<parameters>
+				<key datatype="string" />				
+			</parameters>
+		</session_load>
+		<session_update>
+			<parameters>
+				<new_key datatype="string" />	
+			</parameters>			
+		</session_update>
+		<session_user_agent>
+			<name>session_user_agent_load_id_by_identifer</name>
+			<parameters>
+				<agent datatype="string" />	
+			</parameters>	
+		</session_user_agent>
+		<user_login>
+			<parameters>
+				<userName datatype="string" />	
+				<userPass datatype="string" />	
+			</parameters>	
+		</user_login>
+		<user_load_details>
+			<parameters>
+				<user datatype="integer" />	
+			</parameters>	
+		</user_load_details>
+		<user_load_role>
+			<parameters>
+				<user datatype="integer" />	
+			</parameters>	
+		</user_load_role>
+		
+		<load_client>
+			<parameters>
+				<id datatype="integer" />
+				<status datatype="integer" />
+			</parameters>
+		</load_client>
+		<get_jobs_by_id>
+			<parameters>
+				<clientId datatype="integer" />
+				<jobId datatype="integer" />
+				<jobStatus datatype="integer" />
+			</parameters>
+		</get_jobs_by_id>
+		
+		<get_jobs_by_client_id>
+			<parameters>
+				<id datatype="integer" />
+				<offset datatype="integer" />
+				<limit datatype="integer" />
+				<status datatype="integer" />
+			</parameters>
+		</get_jobs_by_client_id>
+		
+		<get_jobs_by_category>
+			<parameters>
+				<catIdentifier datatype="string" />
+				<clientId datatype="integer" />
+				<offset datatype="integer" />
+				<limit datatype="integer" />
+				<status datatype="integer" />
+			</parameters>
+		</get_jobs_by_category>
+		
+		<get_total_jobs_for_client>
+			<parameters>
+				<id datatype="integer" />
+			</parameters>
+		</get_total_jobs_for_client>
+		
+		<get_content_by_jobid>
+			<parameters>
+				<id datatype="integer" />
+				<status datatype="integer" />
+			</parameters>
+		</get_content_by_jobid>
+		
+		<get_content_by_id>
+			<parameters>
+				<clientId datatype="integer" />
+				<contentId datatype="integer" />
+				<contentStatus datatype="integer" />
+			</parameters>
+		</get_content_by_id>
+		
+		<get_categories_for_client_id>
+			<parameters>
+				<status datatype="integer" />
+				<id datatype="integer" />
+			</parameters>
+		</get_categories_for_client_id>
+		
+		<get_categories_by_media_id>
+			<parameters>
+				<id datatype="integer" />
+			</parameters>
+		</get_categories_by_media_id>
+		
+		<get_categories>
+			<parameters>
+				<status datatype="integer" />
+			</parameters>
+		</get_categories>
+		
+		<get_media_by_contentid>
+			<parameters>
+				<id datatype="integer" />
+			</parameters>
+		</get_media_by_contentid>
+		
+		<get_media_by_id>
+			<parameters>
+				<id datatype="integer" />
+			</parameters>
+		</get_media_by_id>
+		
+		<get_media>
+			<parameters>
+				<id datatype="integer" />
+				<identifier datatype="string" />
+			</parameters>
+		</get_media>
+		
+		<get_article_by_id>
+			<parameters>
+				<id datatype="integer" />
+			</parameters>
+		</get_article_by_id>
+		
+		<get_status_by_id>
+			<parameters>
+				<id datatype="integer" />
+			</parameters>
+		</get_status_by_id>
+		
+		<get_image_by_id>
+			<parameters>
+				<id datatype="integer" />
+			</parameters>
+		</get_image_by_id>
+		
+		<load_type_by_id>
+			<parameters>
+				<id datatype="integer"/>
+			</parameters>
+		</load_type_by_id>
+		
+		<load_client_by_group>
+			<name>client_load_by_group</name>
+			<parameters>
+				<group datatype="integer"/>
+				<status datatype="integer"/>
+			</parameters>
+		</load_client_by_group>
+		
+		<load_media_documents>
+			<parameters>
+				<id datatype="integer"/>
+			</parameters>
+		</load_media_documents>
+		
+		<load_article_by_id>
+			<parameters>
+				<id datatype="integer"/>
+			</parameters>
+		</load_article_by_id>
+		
+		<get_all_clients>
+			<parameters>
+				<status datatype="integer"/>
+			</parameters>
+		</get_all_clients>
+		
+		<save_job>
+			<parameters>
+				<clientId datatype="integer"/>
+				<number datatype="integer"/>
+				<article datatype="integer"/>
+				<thumb datatype="integer"/>
+				<image datatype="integer"/>
+				<status datatype="integer"/>
+				<document datatype="integer"/>
+				<datePublished datatype="string"/>
+			</parameters>
+		</save_job>
+		
+		<save_image>
+			<parameters>
+				<imgPath datatype="string"/>
+				<imgAlt datatype="string"/>
+			</parameters>
+		</save_image>
+		
+		<save_media>
+			<parameters>
+				<fileDescription datatype="string"/>
+				<fileIdentifier datatype="string"/>
+				<filename datatype="string"/>
+				<filePath datatype="string"/>
+			</parameters>
+		</save_media>
+		
+		<save_article>
+			<parameters>
+				<title datatype="string"/>
+				<description datatype="string"/>
+				<html datatype="integer"/>
+				<type datatype="integer"/>
+			</parameters>
+		</save_article>
+		
+		<get_job_numbers>
+			<parameters>
+				<clientId datatype="integer"/>
+			</parameters>
+		</get_job_numbers>
+		
+		<get_all_status>
+		</get_all_status>
+		
+		<get_job_all_status>
+			<parameters>
+				<clientId datatype="integer"/>
+				<jobId datatype="integer"/>
+				<jobStatus datatype="integer"/>
+			</parameters>
+		</get_job_all_status>
+		
+		<delete_job>
+			<parameters>
+				<jobId datatype="integer"/>
+			</parameters>>
+		</delete_job>
+		
+		<delete_content>
+			<parameters>
+				<contentId datatype="integer"/>
+			</parameters>>
+		</delete_content>
+		
+		<update_content>
+			<parameters>
+				<contentId datatype="integer"/>
+				<articleTitle datatype="integer"/>
+				<articleBody datatype="integer"/>
+				<html datatype="integer"/>
+				<articleType datatype="integer"/>
+				<imgPath datatype="integer"/>
+				<imgAlt datatype="integer"/>
+				<imgType datatype="integer"/>
+				<status datatype="integer"/>
+				<published datatype="integer"/>
+			</parameters>>
+		</update_content>
+		
+	
+	
+	</procs>
+</marquis>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="KioskV3Server" default="finalize" basedir=".">
+	<echo msg="html" />
+	<property file="build.properties" />
+	<property name="archives.dir" value="./archives" override="true" />
+	<property name="backups.dir" value="./backups" override="true" />
+	<property name="backup.kiosk.tar.name" value="kioskbackup.tar" override="true" />
+
+	<target name="echo">
+		<echo msg="Starting install process" />
+	</target>
+
+	<!-- get the target directory -->
+	<fileset dir="${srcdir}" id="kioskSourceFiles">
+		<include name="**" />
+	</fileset>
+
+	<!-- if there is something on that target -->
+	<target name="archive" depends="echo">
+		<available file="${srcdir}" type="dir" property="kiosk.exists" />
+		<if>
+			<istrue value="kiosk.exists"/>
+		 <then>
+		 	<!-- archive whatever is there -->
+		 	<echo message="Backing up previous version of kiosk..." />
+		 	<!-- save the archive ./backups -->
+		 	<mkdir dir="${backups.dir}" />
+		 	<tar destfile="${backups.dir}/${kiosk.tar.name}" compression="gzip">
+		 		<fileset refid="kioskSourceFiles" />
+		 	</tar>
+		 	<!-- copy config files to backups -->
+		 	<!-- delete all the target directory -->
+		 	<!-- confirm that its empty  -->
+		 </then>
+		</if>
+	</target>
+			
+			<!-- expand the new version to directory -->
+			<!-- if config files exist replace the new ones -->
+			<!-- check internet connection -->
+			<!-- pull http://stageserver. cabinetuk.com/index.php?md5="sdfsdfsasdfs" -->
+			<!-- confirm done -->
+
+
+			<!--
+	<target name="prepare">
+		<mkdir dir="${archives.dir}" />
+	</target>
+
+	<target name="archive" depends="prepare">
+		<tar destfile="${archives.dir}/${kiosk.tar.name}" compression="gzip">
+			<fileset refid="kioskSourceFiles" />
+		</tar>
+	</target>
+	-->
+	
+			<target name="finalize" depends="archive">
+				<echo msg="All done!" />
+			</target>
+
+		</project>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<showcase>
+	<router>
+		<routes>
+			<index>
+				<route>:action</route>
+				<defaults>
+					<module>default</module>
+					<controller>Index</controller>
+					<action>index</action>
+					<channelId></channelId>
+				</defaults>
+				<reqs>
+					<action>(index)</action>
+				</reqs>
+			</index>
+			
+			<include>
+				<type>Zend_Controller_Router_Route_Regex</type>
+				<route>include/(css|js)(?:/([a-z0-9_/]+))?</route>
+				<defaults>
+					<module>default</module>
+					<controller>Static</controller>
+					<action>include</action>
+					<extension>css</extension>
+					<include>default</include>
+				</defaults>
+				<map>
+					<extension>1</extension>
+					<include>2</include>
+					<params>3</params>
+				</map>
+			</include>
+			
+			<content>
+				<route>content/:contentId/:jobId/:mediaIdentifier</route>
+				<defaults>
+					<module>default</module>
+					<controller>Content</controller>
+					<action>index</action>
+					<jobId></jobId>
+					<mediaIdentifier></mediaIdentifier>
+				</defaults>
+			</content>
+			
+			<jobs>
+				<route>jobs/:jobId/:mediaIdentifier</route>
+				<defaults>
+					<module>default</module>
+					<controller>Jobs</controller>
+					<action>index</action>
+					<mediaIdentifier></mediaIdentifier>
+				</defaults>
+			</jobs>
+			<offset>
+				<route>pages/:offset</route>
+				<defaults>
+					<module>default</module>
+					<controller>index</controller>
+					<action>index</action>
+				</defaults>
+			</offset>
+			<download>
+				<type>Zend_Controller_Router_Route_Regex</type>
+				<route>download/([a-z0-9_]+)?(.([a-z0-9]+))</route>
+				<defaults>
+					<module>default</module>
+					<controller>Static</controller>
+					<action>download</action>
+				</defaults>
+				<map>
+					<mediaIdentifier>1</mediaIdentifier>
+					<extension>2</extension>
+				</map>
+			</download>
+			
+			<filepreview>
+				<type>Zend_Controller_Router_Route_Regex</type>
+				<route>filepreview/([a-z0-9_]+)?(.([a-z0-9]+))</route>
+				<defaults>
+					<module>default</module>
+					<controller>Static</controller>
+					<action>filepreview</action>
+				</defaults>
+				<map>
+					<mediaIdentifier>1</mediaIdentifier>
+					<extension>2</extension>
+				</map>
+			</filepreview>
+			
+			<CI>
+				<route>category/:categoryIdentifier</route>
+				<defaults>
+					<module>default</module>
+					<controller>Category</controller>
+					<action>index</action>
+				</defaults>
+			</CI>
+			
+			<adminphase>
+				<route>admin/content/:action/:jobId/:clientId</route>
+				<defaults>
+					<module>admin</module>
+					<controller>Content</controller>
+					<action>index</action>
+					<jobId>:jobId</jobId>
+					<clientId>:clientId</clientId>
+				</defaults>
+			</adminphase>
+			
+			<adminmedia>
+				<route>admin/media/:action/:contentId</route>
+				<defaults>
+					<module>admin</module>
+					<controller>Media</controller>
+					<action>:action</action>
+					<contentId>:contentId</contentId>
+				</defaults>
+			</adminmedia>
+			
+		</routes>	
+	</router>
+</showcase>				
+			
+				
