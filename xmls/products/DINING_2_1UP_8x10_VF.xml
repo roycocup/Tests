@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HalseTemplates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<HalseTemplate type="Halse" id="15"
+		label="DINING_2_1UP_8x10_HF" layoutfile="15" u_id="15"
+		Orientation="2" layoutpreview="DINING_2_1UP_8x10_HF" flags="1"
+		productType="3" width="600" height="464" dbCropTop="0" dbCropLeft="0"
+		dbCropWidth="0" dbCropHeight="0" defaultAR="0.800000011920929">
+		<Node id="1" type="overlay" zOrder="5" top="0" left="0"
+			width="600" height="464"
+			centre_X="0" centre_Y="0"
+			rotation="0">
+			<Image />
+		</Node>
+		<Node id="2" type="image" zOrder="1" top="0"
+			left="129" width="373" height="464"
+			centre_X="" centre_Y=""
+			rotation="0" bgColour="" />
+	</HalseTemplate>
+</HalseTemplates>

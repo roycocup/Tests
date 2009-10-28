@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HalseTemplates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HalseTemplate type="Halse" id="14" label="BOARDWALK_1_1UP_6x8_HF" layoutfile="14" u_id="14" Orientation="2" layoutpreview="Previews\Product (0014) BOARDWALK_1_1UP_6x8_HF.png" flags="1" productType="3" width="11" height="8.5" dbCropTop="0" dbCropLeft="0" dbCropWidth="0" dbCropHeight="0" defaultAR="0.800000011920929">
+    <Node id="1" type="overlay" zOrder="4" top="0" left="0" width="11" height="8.5" centre_X="5.5" centre_Y="4.25" rotation="0">
+      <Image />
+    </Node>
+    <Node id="2" type="image" zOrder="1" top="4.2111382484436" left="0.287512749433517" width="4.34537935256958" height="3.56053137779236" centre_X="2.4602024257183071" centre_Y="5.99140393733978" rotation="0" bgColour="255,255,255,255" />
+    <Node id="3" type="text" zOrder="0" top="3.29381054639816" left="-2.0374151542782784" width="4.40025520324707" height="0.17228376865387" centre_X="-1.9512732699513433" centre_Y="5.4939381480216953" rotation="270" editable="false" />
+  </HalseTemplate>
+  <HalseTemplate type="Halse" id="18" label="BOARDWALK_2_2UP_6x8_HFVF" layoutfile="18" u_id="18" Orientation="2" layoutpreview="Previews\Product (0018) BOARDWALK_2_2UP_6x8_HFVF.png" flags="3" productType="3" width="11" height="8.5" dbCropTop="0" dbCropLeft="0" dbCropWidth="0" dbCropHeight="0" defaultAR="0.800000011920929">
+    <Node id="1" type="overlay" zOrder="4" top="0" left="0" width="11" height="8.5" centre_X="5.5" centre_Y="4.25" rotation="0">
+      <Image />
+    </Node>
+    <Node id="2" type="image" zOrder="2" top="4.2111382484436" left="0.287512749433517" width="4.34537935256958" height="3.56053137779236" centre_X="2.4602024257183071" centre_Y="5.99140393733978" rotation="0" bgColour="255,255,255,255" />
+    <Node id="3" type="image" zOrder="1" top="4.20388460159302" left="4.68856763839722" width="2.85864162445068" height="3.58072066307068" centre_X="6.11788845062256" centre_Y="5.9942449331283605" rotation="0" transparentBG="true" />
+    <Node id="4" type="text" zOrder="0" top="3.29381054639816" left="-2.0374151542782784" width="4.40025520324707" height="0.17228376865387" centre_X="-1.9512732699513433" centre_Y="5.4939381480216953" rotation="270" editable="false" />
+  </HalseTemplate>
+  <HalseTemplate type="Halse" id="15" label="CENTRALPARK_1_1UP_6x8_HF" layoutfile="15" u_id="15" Orientation="2" layoutpreview="Previews\Product (0015) CENTRALPARK_1_1UP_6x8_HF.png" flags="1" productType="3" width="11" height="8.5" dbCropTop="0" dbCropLeft="0" dbCropWidth="0" dbCropHeight="0" defaultAR="0.800000011920929">
+    <Node id="1" type="overlay" zOrder="3" top="0" left="0" width="10.9993410110474" height="8.49679279327393" centre_X="5.4996705055237" centre_Y="4.2483963966369647" rotation="0">
+      <Image />
+    </Node>
+    <Node id="2" type="image" zOrder="1" top="2.2229483127594" left="0.297404229640961" width="6.52838563919067" height="5.54912757873535" centre_X="3.5615970492362963" centre_Y="4.9975121021270752" rotation="0" bgColour="255,255,255,255" />
+    <Node id="3" type="text" zOrder="0" top="3.29381054639816" left="-2.0374151542782784" width="4.40025520324707" height="0.17228376865387" centre_X="-1.9512732699513433" centre_Y="5.4939381480216953" rotation="270" editable="false" />
+  </HalseTemplate>
+  <HalseTemplate type="Halse" id="17" label="DINING_1_1UP_8X10_VF" layoutfile="17" u_id="17" Orientation="2" layoutpreview="Previews\Product (0017) DINING_1_1UP_8X10_VF.png" flags="1" productType="3" width="11" height="8.5" dbCropTop="0" dbCropLeft="0" dbCropWidth="0" dbCropHeight="0" defaultAR="0.800000011920929">
+    <Node id="1" type="overlay" zOrder="3" top="0" left="0" width="10.997447013855" height="8.49933242797852" centre_X="5.4987235069275" centre_Y="4.24966621398926" rotation="0">
+      <Image />
+    </Node>
+    <Node id="2" type="image" zOrder="1" top="0.739544093608856" left="2.86246299743652" width="5.30251169204712" height="7.0444917678833" centre_X="5.5137188434600795" centre_Y="4.2617899775505057" rotation="0" bgColour="255,255,255,255" />
+    <Node id="3" type="text" zOrder="0" top="3.29381054639816" left="-2.0374151542782784" width="4.40025520324707" height="0.17228376865387" centre_X="-1.9512732699513433" centre_Y="5.4939381480216953" rotation="270" editable="false" />
+  </HalseTemplate>
+  <HalseTemplate type="Halse" id="10" label="EMBARKATION_1_1UP_8X10_HF" layoutfile="10" u_id="10" Orientation="2" layoutpreview="Previews\Product (0010) EMBARKATION_1_1UP_8X10_HF.png" flags="1" productType="3" width="11" height="8.5" dbCropTop="0" dbCropLeft="0" dbCropWidth="0" dbCropHeight="0" defaultAR="0.800000011920929">
+    <Node id="1" type="overlay" zOrder="3" top="0" left="0" width="11" height="8.5" centre_X="5.5" centre_Y="4.25" rotation="0">
+      <Image />
+    </Node>
+    <Node id="2" type="image" zOrder="1" top="0.299901396036148" left="0.299901396036148" width="10.3657398223877" height="7.81976890563965" centre_X="5.4827713072299984" centre_Y="4.2097858488559732" rotation="0" bgColour="255,255,255,255" />
+    <Node id="3" type="text" zOrder="0" top="3.29381054639816" left="-2.0374151542782784" width="4.40025520324707" height="0.17228376865387" centre_X="-1.9512732699513433" centre_Y="5.4939381480216953" rotation="270" editable="false" />
+  </HalseTemplate>
+  <HalseTemplate type="Halse" id="11" label="EMBARKATION_1_1UP_8X10_VF" layoutfile="11" u_id="11" Orientation="2" layoutpreview="Previews\Product (0011) EMBARKATION_1_1UP_8X10_VF.png" flags="1" productType="3" width="11" height="8.5" dbCropTop="0" dbCropLeft="0" dbCropWidth="0" dbCropHeight="0" defaultAR="0.800000011920929">
+    <Node id="1" type="overlay" zOrder="3" top="0" left="0" width="10.997447013855" height="8.49933242797852" centre_X="5.4987235069275" centre_Y="4.24966621398926" rotation="0">
+      <Image />
+    </Node>
+    <Node id="2" type="image" zOrder="1" top="0.283311098814011" left="2.39346814155579" width="6.26921510696411" height="7.83891153335571" centre_X="5.5280756950378453" centre_Y="4.2027668654918662" rotation="0" bgColour="255,255,255,255" />
+    <Node id="3" type="text" zOrder="0" top="3.29381054639816" left="-2.0374151542782784" width="4.40025520324707" height="0.17228376865387" centre_X="-1.9512732699513433" centre_Y="5.4939381480216953" rotation="270" editable="false" />
+  </HalseTemplate>
+  <HalseTemplate type="Halse" id="16" label="FORMAL_1_1UP_8X10_HF" layoutfile="16" u_id="16" Orientation="2" layoutpreview="Previews\Product (0016) FORMAL_1_1UP_8X10_HF.png" flags="1" productType="3" width="11" height="8.5" dbCropTop="0" dbCropLeft="0" dbCropWidth="0" dbCropHeight="0" defaultAR="0.800000011920929">
+    <Node id="1" type="overlay" zOrder="3" top="0" left="0" width="10.997447013855" height="8.49933242797852" centre_X="5.4987235069275" centre_Y="4.24966621398926" rotation="0">
+      <Image />
+    </Node>
+    <Node id="2" type="image" zOrder="1" top="1.95510172843933" left="0.278206408023834" width="7.36991691589355" height="5.83850574493408" centre_X="3.9631648659706089" centre_Y="4.87435460090637" rotation="0" bgColour="255,255,255,255" />
+    <Node id="3" type="text" zOrder="0" top="3.29381054639816" left="-2.0374151542782784" width="4.40025520324707" height="0.17228376865387" centre_X="-1.9512732699513433" centre_Y="5.4939381480216953" rotation="270" editable="false" />
+  </HalseTemplate>
+  <HalseTemplate type="Halse" id="12" label="OASIS_SPREAD_STOCK1" layoutfile="12" u_id="12" Orientation="2" layoutpreview="Previews\Product (0012) OASIS_SPREAD_STOCK1.png" flags="1" productType="3" width="11" height="8.5" dbCropTop="0" dbCropLeft="0" dbCropWidth="0" dbCropHeight="0" defaultAR="0.800000011920929">
+    <Node id="1" type="overlay" zOrder="3" top="0" left="0" width="10.997447013855" height="8.49933242797852" centre_X="5.4987235069275" centre_Y="4.24966621398926" rotation="0">
+      <Image />
+    </Node>
+    <Node id="2" type="image" zOrder="1" top="0.708277702331543" left="0.287777721881866" width="4.82394552230835" height="6.44149875640869" centre_X="2.6997504830360408" centre_Y="3.9290270805358878" rotation="0" bgColour="255,255,255,255" />
+    <Node id="3" type="text" zOrder="0" top="3.29381054639816" left="-2.0374151542782784" width="4.40025520324707" height="0.17228376865387" centre_X="-1.9512732699513433" centre_Y="5.4939381480216953" rotation="270" editable="false" />
+  </HalseTemplate>
+</HalseTemplates>

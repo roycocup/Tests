@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HalseTemplates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HalseTemplate type="Halse" id="35" label="CENTRALPARK_2_2UP_8x10_HFHF" layoutfile="35" u_id="35" layoutpreview="Previews\Product (0035) CENTRALPARK_2_2UP_8x10_HFHF.png" flags="3" productType="3" width="11" height="8.5" price="0.00" dbCropTop="0" dbCropLeft="0" dbCropWidth="0" dbCropHeight="0" defaultAR="0.800000011920929" autoRotate="false">
+    <Node id="1" type="overlay" zOrder="4" top="0" left="0" width="11" height="8.5" centre_X="5.5" centre_Y="4.25" rotation="0" editable="false">
+      <Image filename="CENTRALPARK_2_2UP_8x10_HFHF\CENTRALPARK_2_2UP_8X10_HFHF.PNG" cropWidth="1" cropHeight="1" />
+    </Node>
+    <Node id="2" type="image" zOrder="1" top="3.03028011322021" left="0.516851305961609" width="5.65333318710327" height="4.53333330154419" centre_X="3.3435178995132437" centre_Y="5.2969467639923051" rotation="0" bgColour="255,255,255,255" cellFlags="1029" editable="false" defaultImage="CENTRALPARK_2a_STOCK_HF.JPG"/>
+    <Node id="3" type="image" zOrder="2" top="4.16671514511108" left="6.19009208679199" width="4.51000022888184" height="3.61999988555908" centre_X="8.44509220123291" centre_Y="5.9767150878906206" rotation="0" bgColour="255,255,255,255" cellFlags="1029" editable="false" defaultImage="CENTRALPARK_2b_STOCK_HF.JPG"/>
+    <Node id="4" type="text" zOrder="0" top="3.29381054639816" left="-2.0139857158064842" width="4.40025520324707" height="0.17228376865387" centre_X="-1.9278438314795492" centre_Y="5.4939381480216953" rotation="270" editable="false">
+      <Text text="#x{12}Order ID and Stateroom" originalText="#x{12}Order ID and Stateroom" font="Arial                    " fontsize="6" colour="0,0,0,255" align="left" cellFlags="0" />
+    </Node>
+  </HalseTemplate>
+</HalseTemplates>

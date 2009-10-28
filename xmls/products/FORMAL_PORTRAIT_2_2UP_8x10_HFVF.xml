@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HalseTemplates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<HalseTemplate type="Halse" id="15"
+		label="FORMAL_PORTRAIT_2_2UP_8x10_HFVF" layoutfile="15" u_id="15"
+		Orientation="2" layoutpreview="FORMAL_PORTRAIT_2_2UP_8x10_HFVF" flags="1"
+		productType="3" width="600" height="464" dbCropTop="0" dbCropLeft="0"
+		dbCropWidth="0" dbCropHeight="0" defaultAR="0.800000011920929">
+		<Node id="1" type="overlay" zOrder="5" top="0" left="0"
+			width="600" height="464"
+			centre_X="0" centre_Y="0"
+			rotation="0">
+			<Image />
+		</Node>
+		<Node id="2" type="image" zOrder="1" top="86"
+			left="0" width="370" height="304"
+			centre_X="" centre_Y=""
+			rotation="0" bgColour="" />
+		<Node id="2" type="image" zOrder="1" top="39"
+			left="374" width="225" height="281"
+			centre_X="" centre_Y=""
+			rotation="0" bgColour="" />
+	</HalseTemplate>
+</HalseTemplates>

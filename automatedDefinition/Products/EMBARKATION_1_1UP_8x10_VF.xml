@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HalseTemplates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HalseTemplate type="Halse" id="11" label="EMBARKATION_1_1UP_8x10_VF" layoutfile="11" u_id="11" layoutpreview="Previews\Product (0011) EMBARKATION_1_1UP_8x10_VF.png" flags="1" productType="3" width="11" height="8.5" price="0.00" dbCropTop="0" dbCropLeft="0" dbCropWidth="0" dbCropHeight="0" defaultAR="0.800000011920929" autoRotate="false">
+    <Node id="1" type="overlay" zOrder="6" top="0" left="0" width="10.9968872070313" height="8.49865531921387" centre_X="5.49844360351565" centre_Y="4.2493276596069354" rotation="0" editable="false">
+      <Image filename="EMBARKATION_1_1UP_8x10_VF\EMBARKATION_1_1UP_8X10_VF.PNG" cropWidth="1" cropHeight="1" />
+    </Node>
+    <Node id="2" type="image" zOrder="1" top="0.269911259412766" left="0.269911259412766" width="6.01999998092651" height="7.51000022888184" centre_X="3.279911249876021" centre_Y="4.0249113738536861" rotation="0" bgColour="255,255,255,255" cellFlags="1029" editable="false" defaultImage="EMBARKATION_1_STOCK_VF.JPG"/>
+    <Node id="3" type="text" zOrder="0" top="3.29381054639816" left="-2.0139857158064842" width="4.40025520324707" height="0.17228376865387" centre_X="-1.9278438314795492" centre_Y="5.4939381480216953" rotation="270" editable="false">
+      <Text text="#x{12}Order ID and Stateroom" originalText="#x{12}Order ID and Stateroom" font="Arial                    " fontsize="6" colour="0,0,0,255" align="left" cellFlags="0" />
+    </Node>
+    <Node id="4" type="text" zOrder="4" top="1.94500005245209" left="6.59999990463257" width="2.48600006103516" height="0.326999992132187" centre_X="7.84299993515015" centre_Y="2.1085000485181835" rotation="0" editable="false">
+      <Text text="#x{11}February 13th to 20th," originalText="#x{11}February 13th to 20th," font="ACaslon RegularSC        " fontsize="14" colour="77,133,197,255" italic="true" align="right" cellFlags="0" />
+    </Node>
+    <Node id="5" type="text" zOrder="5" top="1.96000003814697" left="9.0939998626709" width="0.828000009059906" height="0.280000001192093" centre_X="9.5079998672008532" centre_Y="2.1000000387430164" rotation="0" editable="false">
+      <Text text="Type your text here" originalText="#x{10}2010" font="Avenir LT Std 55 Roman   " fontsize="12" colour="77,133,197,255" align="left" cellFlags="0" />
+    </Node>
+  </HalseTemplate>
+</HalseTemplates>

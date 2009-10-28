@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book templateImageDirectory="book_1/images/templates/"
+	stockImageDirectory="book_1/images/stocks/preview/"
+	stockThumbnailImagesDirectory="book_1/images/stocks/thumbs/"
+	pageWidth="550" pageHeight="425">
+	<page number="1">
+		<template id="10" default="true"
+			filename="Product (0010) EMBARKATION_1_1UP_8x10_HF.png"
+			templateName="EMBARKATION_1_1UP_8x10_HF"
+			templateDescriptionFile="EMBARKATION_1_1UP_8x10_HF.xml"
+			orientation="HF">
+			<stockimage nodeId="2" orientation="HF"
+				filename="EMBARKATION_1_STOCK_HF">
+			</stockimage>
+		</template>
+		<template id="11" default="false"
+			filename="Product (0011) EMBARKATION_1_1UP_8x10_VF.png"
+			templateName="EMBARKATION_1_1UP_8x10_VF"
+			templateDescriptionFile="EMBARKATION_1_1UP_8x10_VF.xml"
+			orientation="VF">
+			<stockimage nodeId="2" orientation="VF"
+				filename="EMBARKATION_1_STOCK_VF">
+			</stockimage>
+		</template>
+	</page>
+	<page number="2">
+		<template id="12" default="true"
+			filename="Product (0012) OASIS_SPREAD_STOCK_1.png"
+			templateName="OASIS_SPREAD_STOCK_1"
+			templateDescriptionFile="OASIS_SPREAD_STOCK_1.xml"
+			orientation="STOCK">
+			<stockimage nodeId="2" orientation="STOCK"
+				filename="StockImage">
+			</stockimage>
+		</template>
+	</page>
+	<page number="3">
+		<template id="14" default="true"
+			filename="Product (0014) OASIS_SPREAD_STOCK_2.png"
+			templateName="OASIS_SPREAD_STOCK_2"
+			templateDescriptionFile="OASIS_SPREAD_STOCK_2.xml"
+			orientation="STOCK">
+			<stockimage nodeId="2" orientation="STOCK"
+				filename="StockImage">
+			</stockimage>
+		</template>
+	</page>
+	<page number="4">
+		<template id="15" default="true"
+			filename="Product (0015) FORMAL_PORTRAIT_1_2UP_8x10_HFVF.png"
+			templateName="FORMAL_PORTRAIT_1_2UP_8x10_HFVF"
+			templateDescriptionFile="FORMAL_PORTRAIT_1_2UP_8x10_HFVF.xml"
+			orientation="HFVF">
+			<stockimage nodeId="2" orientation="HF"
+				filename="FORMAL_PORTRAIT_1a_STOCK_HF">
+			</stockimage>
+			<stockimage nodeId="3" orientation="VF"
+				filename="FORMAL_PORTRAIT_1a_STOCK_VF">
+			</stockimage>
+		</template>
+		<template id="16" default="false"
+			filename="Product (0016) FORMAL_PORTRAIT_1_2UP_8x10_HFHF.png"
+			templateName="FORMAL_PORTRAIT_1_2UP_8x10_HFHF"
+			templateDescriptionFile="FORMAL_PORTRAIT_1_2UP_8x10_HFHF.xml"
+			orientation="HFHF">
+			<stockimage nodeId="2" orientation="HF"
+				filename="FORMAL_PORTRAIT_1a_STOCK_HF">
+			</stockimage>
+			<stockimage nodeId="3" orientation="HF"
+				filename="FORMAL_PORTRAIT_1b_STOCK_HF">
+			</stockimage>
+		</template>
+		<template id="17" default="false"
+			filename="Product (0017) FORMAL_PORTRAIT_1_2UP_8x10_VFVF.png"
+			templateName="FORMAL_PORTRAIT_1_2UP_8x10_VFVF"
+			templateDescriptionFile="FORMAL_PORTRAIT_1_2UP_8x10_VFVF.xml"
+			orientation="VFVF">
+			<stockimage nodeId="2" orientation="VF"
+				filename="FORMAL_PORTRAIT_1a_STOCK_VF">
+			</stockimage>
+			<stockimage nodeId="3" orientation="VF"
+				filename="FORMAL_PORTRAIT_1b_STOCK_VF">
+			</stockimage>
+		</template>
+	</page>
+	<page number="5">
+		<template id="18" default="true"
+			filename="Product (0018) FORMAL_PORTRAIT_2_2UP_8x10_HFVF.png"
+			templateName="FORMAL_PORTRAIT_2_2UP_8x10_HFVF"
+			templateDescriptionFile="FORMAL_PORTRAIT_2_2UP_8x10_HFVF.xml"
+			orientation="HFVF">
+			<stockimage nodeId="2" orientation="HF"
+				filename="FORMAL_PORTRAIT_2a_STOCK_HF">
+			</stockimage>
+			<stockimage nodeId="3" orientation="VF"
+				filename="FORMAL_PORTRAIT_2a_STOCK_VF">
+			</stockimage>
+		</template>
+		<template id="19" default="false"
+			filename="Product (0019) FORMAL_PORTRAIT_2_2UP_8x10_HFHF.png"
+			templateName="FORMAL_PORTRAIT_2_2UP_8x10_HFHF"
+			templateDescriptionFile="FORMAL_PORTRAIT_2_2UP_8x10_HFHF.xml"
+			orientation="HFHF">
+			<stockimage nodeId="2" orientation="HF"
+				filename="FORMAL_PORTRAIT_2a_STOCK_HF">
+			</stockimage>
+			<stockimage nodeId="3" orientation="HF"
+				filename="FORMAL_PORTRAIT_2b_STOCK_HF">
+			</stockimage>
+		</template>
+		<template id="20" default="false"
+			filename="Product (0020) FORMAL_PORTRAIT_2_2UP_8x10_VFVF.png"
+			templateName="FORMAL_PORTRAIT_2_2UP_8x10_VFVF"
+			templateDescriptionFile="FORMAL_PORTRAIT_2_2UP_8x10_VFVF.xml"
+			orientation="VFVF">
+			<stockimage nodeId="2" orientation="VF"
+				filename="FORMAL_PORTRAIT_2a_STOCK_VF">
+			</stockimage>
+			<stockimage nodeId="3" orientation="VF"
+				filename="FORMAL_PORTRAIT_2b_STOCK_VF">
+			</stockimage>
+		</template>
+	</page>
+	<page number="6">
+		<template id="21" default="true"
+			filename="Product (0021) DINING_1_1UP_8x10_HF.png"
+			templateName="DINING_1_1UP_8x10_HF"
+			templateDescriptionFile="DINING_1_1UP_8x10_HF.xml"
+			orientation="HF">
+			<stockimage nodeId="2" filename="DINING_1_STOCK_HF"
+							orientation="HF">
+			</stockimage>
+		</template>
+		<template id="22" default="false"
+			filename="Product (0022) DINING_1_1UP_8x10_VF.png"
+			templateName="DINING_1_1UP_8x10_VF"
+			templateDescriptionFile="DINING_1_1UP_8x10_VF.xml"
+			orientation="VF">
+			<stockimage nodeId="2" orientation="VF"
+				filename="DINING_1_STOCK_VF">
+			</stockimage>
+		</template>
+	</page>
+	<page number="7">
+		<template id="23" default="true"
+			filename="Product (0023) DINING_2_1UP_8x10_HF.png"
+			templateName="DINING_2_1UP_8x10_HF"
+			templateDescriptionFile="DINING_2_1UP_8x10_HF.xml"
+			orientation="HF">
+			<stockimage nodeId="2" default="true" orientation="HF"
+				filename="DINING_2_STOCK_HF">
+			</stockimage>
+		</template>
+		<template id="24" default="false"
+			filename="Product (0024) DINING_2_1UP_8x10_VF.png"
+			templateName="DINING_2_1UP_8x10_VF"
+			templateDescriptionFile="DINING_2_1UP_8x10_VF.xml"
+			orientation="VF">
+			<stockimage nodeId="2" orientation="VF"
+				filename="DINING_2_STOCK_VF">
+			</stockimage>
+		</template>
+	</page>
+	<page number="8">
+		<template id="25" default="true"
+			filename="Product (0025) BOARDWALK_1_2UP_8x10_HFVF.png"
+			templateName="BOARDWALK_1_2UP_8x10_HFVF"
+			templateDescriptionFile="BOARDWALK_1_2UP_8x10_HFVF.xml"
+			orientation="HF">
+			<stockimage nodeId="2" orientation="HF"
+				filename="BOARDWALK_1a_STOCK_HF">
+			</stockimage>
+			<stockimage nodeId="3" orientation="VF"
+				filename="BOARDWALK_1a_STOCK_VF">
+			</stockimage>
+		</template>
+		<template id="26" default="false"
+			filename="Product (0026) BOARDWALK_1_2UP_8x10_HFHF.png"
+			templateName="BOARDWALK_1_2UP_8x10_HFHF"
+			templateDescriptionFile="BOARDWALK_1_2UP_8x10_HFHF.xml"
+			orientation="VF">
+			<stockimage nodeId="2" orientation="HF"
+				filename="BOARDWALK_1a_STOCK_HF">
+			</stockimage>
+			<stockimage nodeId="3" orientation="HF"
+				filename="BOARDWALK_1b_STOCK_HF">
+			</stockimage>
+		</template>
+		<template id="27" default="false"
+			filename="Product (0027) BOARDWALK_1_2UP_8x10_VFVF.png"
+			templateName="BOARDWALK_1_2UP_8x10_VFVF"
+			templateDescriptionFile="BOARDWALK_1_2UP_8x10_VFVF.xml"
+			orientation="VFVF">
+			<stockimage nodeId="2" orientation="VF"
+				filename="BOARDWALK_1a_STOCK_VF">
+			</stockimage>
+			<stockimage nodeId="3" orientation="VF"
+				filename="BOARDWALK_1b_STOCK_VF">
+			</stockimage>
+		</template>
+	</page>
+	<page number="9">
+		<template id="28" default="true"
+			filename="Product (0028) BOARDWALK_2_2UP_8x10_HFVF.png"
+			templateName="BOARDWALK_2_2UP_8x10_HFVF"
+			templateDescriptionFile="BOARDWALK_2_2UP_8x10_HFVF.xml"
+			orientation="HFVF">
+			<stockimage nodeId="2" filename="BOARDWALK_2a_STOCK_HF"
+							orientation="HF">
+			</stockimage>
+			<stockimage nodeId="3" filename="BOARDWALK_2a_STOCK_VF"
+							orientation="VF">
+			</stockimage>
+		</template>
+		<template id="29" default="false"
+			filename="Product (0029) BOARDWALK_2_2UP_8x10_HFHF.png"
+			templateDescriptionFile="BOARDWALK_2_2UP_8x10_HFHF.xml"
+			templateName="BOARDWALK_2_2UP_8x10_HFHF" orientation="HFHF">
+			<stockimage nodeId="2" orientation="HF"
+				filename="BOARDWALK_2a_STOCK_HF">
+			</stockimage>
+			<stockimage nodeId="3" orientation="HF"
+				filename="BOARDWALK_2b_STOCK_HF">
+			</stockimage>
+		</template>
+		<template id="30" default="false"
+			filename="Product (0030) BOARDWALK_2_2UP_8x10_VFVF.png"
+			templateName="BOARDWALK_2_2UP_8x10_VFVF"
+			templateDescriptionFile="BOARDWALK_2_2UP_8x10_VFVF.xml"
+			orientation="VFVF">
+			<stockimage nodeId="2" orientation="VF"
+				filename="BOARDWALK_2a_STOCK_VF">
+			</stockimage>
+			<stockimage nodeId="3" orientation="VF"
+				filename="BOARDWALK_2b_STOCK_VF">
+			</stockimage>
+		</template>
+	</page>
+	<page number="10">
+		<template id="31" default="true"
+			filename="Product (0031) CENTRALPARK_1_2UP_8x10_HFVF.png"
+			templateDescriptionFile="CENTRALPARK_1_2UP_8x10_HFVF.xml"
+			templateName="CENTRALPARK_1_2UP_8x10_HFVF" orientation="HFVF">
+			<stockimage nodeId="2" orientation="HF"
+				filename="CENTRALPARK_1a_STOCK_HF">
+			</stockimage>
+			<stockimage nodeId="3" orientation="HF"
+				filename="CENTRALPARK_1b_STOCK_HF">
+			</stockimage>
+		</template>
+		<template id="32" default="false"
+			filename="Product (0032) CENTRALPARK_1_2UP_8x10_HFHF.png"
+			templateName="CENTRALPARK_1_2UP_8x10_HFHF"
+			templateDescriptionFile="CENTRALPARK_1_2UP_8x10_HFHF.xml"
+			orientation="HFHF">
+			<stockimage nodeId="2" orientation="HF"
+				filename="CENTRALPARK_1a_STOCK_HF">
+			</stockimage>
+			<stockimage nodeId="3" orientation="HF"
+				filename="CENTRALPARK_1b_STOCK_HF">
+			</stockimage>
+		</template>
+		<template id="33" default="false"
+			filename="Product (0033) CENTRALPARK_1_2UP_8x10_VFVF.png"
+			templateName="CENTRALPARK_1_2UP_8x10_VFVF"
+			templateDescriptionFile="CENTRALPARK_1_2UP_8x10_VFVF.xml"
+			orientation="VFVF">
+			<stockimage nodeId="2" orientation="VF"
+				filename="CENTRALPARK_1a_STOCK_VF">
+			</stockimage>
+			<stockimage nodeId="3" orientation="VF"
+				filename="CENTRALPARK_1b_STOCK_VF">
+			</stockimage>
+		</template>
+	</page>
+	<page number="11">
+		<template id="34" default="true"
+			filename="Product (0034) CENTRALPARK_2_2UP_8x10_HFVF.png"
+			templateName="CENTRALPARK_2_2UP_8x10_HFVF"
+			templateDescriptionFile="CENTRALPARK_2_2UP_8x10_HFVF.xml"
+			orientation="HFVF">
+			<stockimage nodeId="2" orientation="HF"
+				filename="CENTRALPARK_2a_STOCK_HF">
+			</stockimage>
+			<stockimage nodeId="3" orientation="HF"
+				filename="CENTRALPARK_2b_STOCK_HF">
+			</stockimage>
+		</template>
+		<template id="35" default="false"
+			filename="Product (0035) CENTRALPARK_2_2UP_8x10_HFHF.png"
+			templateName="CENTRALPARK_2_2UP_8x10_HFVF"
+			templateDescriptionFile="CENTRALPARK_2_2UP_8x10_HFHF.xml"
+			orientation="HFHF">
+			<stockimage nodeId="2" orientation="HF"
+				filename="CENTRALPARK_2a_STOCK_HF">
+			</stockimage>
+			<stockimage nodeId="3" orientation="HF"
+				filename="CENTRALPARK_2b_STOCK_HF">
+			</stockimage>
+		</template>
+		<template id="36" default="false"
+			filename="Product (0036) CENTRALPARK_2_2UP_8x10_VFVF.png"
+			templateName="CENTRALPARK_2_2UP_8x10_VFVF"
+			templateDescriptionFile="CENTRALPARK_2_2UP_8x10_VFVF.xml"
+			orientation="VFVF">
+			<stockimage nodeId="2" orientation="VF"
+				filename="CENTRALPARK_2a_STOCK_VF">
+			</stockimage>
+			<stockimage nodeId="3" orientation="VF"
+				filename="CENTRALPARK_2b_STOCK_VF">
+			</stockimage>
+		</template>
+	</page>
+	<page number="12">
+		<template id="37" default="true"
+			filename="Product (0037) SPORTS_POOL_DECK_1_2UP_6x8_HFVF.png"
+			templateName="SPORTS_POOL_DECK_1_2UP_6x8_HFVF"
+			templateDescriptionFile="SPORTS_POOL_DECK_1_2UP_6x8_HFVF.xml"
+			orientation="HFVF">
+			<stockimage nodeId="2" orientation="HF"
+				filename="SPORTS_POOL_DECK_1a_STOCK_HF">
+			</stockimage>
+			<stockimage nodeId="3" orientation="VF"
+				filename="SPORTS_POOL_DECK_1a_STOCK_VF">
+			</stockimage>
+		</template>
+		<template id="38" default="false"
+			filename="Product (0038) SPORTS_POOL_DECK_1_2UP_6x8_HFHF.png"
+			templateName="SPORTS_POOL_DECK_1_2UP_6x8_HFHF"
+			templateDescriptionFile="SPORTS_POOL_DECK_1_2UP_6x8_HFHF.xml"
+			orientation="HFHF">
+			<stockimage nodeId="2" orientation="HF"
+				filename="SPORTS_POOL_DECK_1a_STOCK_HF">
+			</stockimage>
+			<stockimage nodeId="3" orientation="HF"
+				filename="SPORTS_POOL_DECK_1b_STOCK_HF">
+			</stockimage>
+		</template>
+		<template id="39" default="false"
+			filename="Product (0039) SPORTS_POOL_DECK_1_2UP_6x8_VFVF.png"
+			templateName="SPORTS_POOL_DECK_1_2UP_6x8_VFVF"
+			templateDescriptionFile="SPORTS_POOL_DECK_1_2UP_6x8_VFVF.xml"
+			orientation="VFVF">
+			<stockimage nodeId="2" orientation="VF"
+				filename="SPORTS_POOL_DECK_1a_STOCK_VF">
+			</stockimage>
+			<stockimage nodeId="3" orientation="VF"
+				filename="SPORTS_POOL_DECK_1b_STOCK_VF">
+			</stockimage>
+		</template>
+	</page>
+	<page number="13">
+		<template id="40" default="true"
+			filename="Product (0040) SPORTS_POOL_DECK_2_2UP_6x8_HFVF.png"
+			templateName="SPORTS_POOL_DECK_2_2UP_6x8_HFVF"
+			templateDescriptionFile="SPORTS_POOL_DECK_2_2UP_6x8_HFVF.xml"
+			orientation="HFVF">
+			<stockimage nodeId="2" orientation="HF"
+				filename="SPORTS_POOL_DECK_2a_STOCK_HF">
+			</stockimage>
+			<stockimage nodeId="3" orientation="VF"
+				filename="SPORTS_POOL_DECK_2a_STOCK_VF">
+			</stockimage>
+		</template>
+		<template id="41" default="false"
+			filename="Product (0041) SPORTS_POOL_DECK_2_2UP_6x8_HFHF.png"
+			templateName="SPORTS_POOL_DECK_2_2UP_6x8_HFHF"
+			templateDescriptionFile="SPORTS_POOL_DECK_2_2UP_6x8_HFHF.xml"
+			orientation="HFHF">
+			<stockimage nodeId="2" orientation="HF"
+				filename="SPORTS_POOL_DECK_2a_STOCK_HF">
+			</stockimage>
+			<stockimage nodeId="3" orientation="HF"
+				filename="SPORTS_POOL_DECK_2b_STOCK_HF">
+			</stockimage>
+		</template>
+		<template id="42" default="false"
+			filename="Product (0042) SPORTS_POOL_DECK_2_2UP_6x8_VFVF.png"
+			templateName="SPORTS_POOL_DECK_2_2UP_6x8_VFVF"
+			templateDescriptionFile="SPORTS_POOL_DECK_2_2UP_6x8_VFVF.xml"
+			orientation="VFVF">
+			<stockimage nodeId="2" orientation="VF"
+				filename="SPORTS_POOL_DECK_2a_STOCK_VF">
+			</stockimage>
+			<stockimage nodeId="3" orientation="VF"
+				filename="SPORTS_POOL_DECK_2b_STOCK_VF">
+			</stockimage>
+		</template>
+	</page>
+	<page number="14">
+		<template id="43" default="true"
+			filename="Product (0043) PORTRAIT_1_2UP_8x10_HFVF.png"
+			templateName="PORTRAIT_1_2UP_8x10_HFVF"
+			templateDescriptionFile="PORTRAIT_1_2UP_8x10_HFVF.xml"
+			orientation="HFVF">
+			<stockimage nodeId="2" orientation="HF"
+				filename="PORTRAIT_1a_STOCK_HF">
+			</stockimage>
+			<stockimage nodeId="3" orientation="VF"
+				filename="PORTRAIT_1a_STOCK_VF">
+			</stockimage>
+		</template>
+		<template id="44" default="false"
+			filename="Product (0044) PORTRAIT_1_2UP_8x10_HFHF.png"
+			templateName="PORTRAIT_1_2UP_8x10_HFHF"
+			templateDescriptionFile="PORTRAIT_1_2UP_8x10_HFHF.xml"
+			orientation="HFHF">
+			<stockimage nodeId="2" orientation="HF"
+				filename="PORTRAIT_1a_STOCK_HF">
+			</stockimage>
+			<stockimage nodeId="3" orientation="HF"
+				filename="PORTRAIT_1b_STOCK_HF">
+			</stockimage>
+		</template>
+		<template id="45" default="false"
+			filename="Product (0045) PORTRAIT_1_2UP_8x10_VFVF.png"
+			templateName="PORTRAIT_1_2UP_8x10_VFVF"
+			templateDescriptionFile="PORTRAIT_1_2UP_8x10_VFVF.xml"
+			orientation="VFVF">
+			<stockimage nodeId="2" orientation="VF"
+				filename="PORTRAIT_1a_STOCK_VF">
+			</stockimage>
+			<stockimage nodeId="3" orientation="VF"
+				filename="PORTRAIT_1b_STOCK_VF">
+			</stockimage>
+		</template>
+	</page>
+	<page number="15">
+		<template id="46" default="true"
+			filename="Product (0046) PORTRAIT_2_2UP_8x10_HFVF.png"
+			templateName="PORTRAIT_2_2UP_8x10_HFVF"
+			templateDescriptionFile="PORTRAIT_2_2UP_8x10_HFVF.xml"
+			orientation="HFVF">
+			<stockimage nodeId="2" orientation="HF"
+				filename="PORTRAIT_2a_STOCK_HF">
+			</stockimage>
+			<stockimage nodeId="3" orientation="VF"
+				filename="PORTRAIT_2a_STOCK_VF">
+			</stockimage>
+		</template>
+		<template id="47" default="false"
+			filename="Product (0047) PORTRAIT_2_2UP_8x10_HFHF.png"
+			templateName="PORTRAIT_2_2UP_8x10_HFHF"
+			templateDescriptionFile="PORTRAIT_2_2UP_8x10_HFHF.xml"
+			orientation="HFHF">
+			<stockimage nodeId="2" orientation="HF"
+				filename="PORTRAIT_2a_STOCK_HF">
+			</stockimage>
+			<stockimage nodeId="3" orientation="VF"
+				filename="PORTRAIT_2b_STOCK_HF">
+			</stockimage>
+		</template>
+		<template id="48" default="false"
+			filename="Product (0048) PORTRAIT_2_2UP_8x10_VFVF.png"
+			templateName="PORTRAIT_2_2UP_8x10_VFVF"
+			templateDescriptionFile="PORTRAIT_2_2UP_8x10_VFVF.xml"
+			orientation="VFVF">
+			<stockimage nodeId="2" orientation="VF"
+				filename="PORTRAIT_2a_STOCK_VF">
+			</stockimage>
+			<stockimage nodeId="3" orientation="VF"
+				filename="PORTRAIT_2b_STOCK_VF">
+			</stockimage>
+		</template>
+	</page>
+	<page number="16">
+		<template id="49" default="true"
+			filename="Product (0049) STMAARGANG_1_1UP_6x8_HF.png"
+			templateName="STMAARGANG_1_1UP_6x8_HF"
+			templateDescriptionFile="STMAARGANG_1_1UP_6x8_HF.xml"
+			orientation="HF">
+			<stockimage nodeId="2" orientation="HF"
+				filename="STMAARGANG_1_STOCK_HF">
+			</stockimage>
+		</template>
+		<template id="50" default="false"
+			filename="Product (0050) STMAARGANG_1_1UP_6x8_VF.png"
+			templateName="STMAARGANG_1_1UP_6x8_VF"
+			templateDescriptionFile="STMAARGANG_1_1UP_6x8_VF.xml"
+			orientation="VF">
+			<stockimage nodeId="2" orientation="VF"
+				filename="STMAARGANG_1_STOCK_VF">
+			</stockimage>
+		</template>
+	</page>
+	<page number="17">
+		<template id="51" default="true"
+			filename="Product (0051) STMAARTEN_STOCK.png"
+			templateName="STMAARTEN_STOCK"
+			templateDescriptionFile="STMAARTEN_STOCK.xml" orientation="STOCK">
+			<stockimage nodeId="2" orientation="STOCK"
+				filename="StockImage">
+			</stockimage>
+		</template>
+	</page>
+	<page number="18">
+		<template id="52" default="true"
+			filename="Product (0052) STTOMGANG_1_1UP_6x8_HF.png"
+			templateName="STTOMGANG_1_1UP_6x8_HF"
+			templateDescriptionFile="STTOMGANG_1_1UP_6x8_HF.xml"
+			orientation="HF">
+			<stockimage nodeId="2" orientation="HF"
+				filename="STTOMGANG_1_STOCK_HF">
+			</stockimage>
+		</template>
+		<template id="53" default="false"
+			filename="Product (0053) STTOMGANG_1_1UP_6x8_VF.png"
+			templateName="STTOMGANG_1_1UP_6x8_VF"
+			templateDescriptionFile="STTOMGANG_1_1UP_6x8_VF.xml"
+			orientation="VF">
+			<stockimage nodeId="2" orientation="VF"
+				filename="STTOMGANG_1_STOCK_VF">
+			</stockimage>
+		</template>
+	</page>
+	<page number="19">
+		<template id="54" default="true"
+			filename="Product (0054) STTHOMAS_STOCK.png"
+			templateName="STTHOMAS_STOCK"
+			templateDescriptionFile="STTHOMAS_STOCK.xml" orientation="STOCK">
+			<stockimage nodeId="2" orientation="STOCK"
+				filename="StockImage">
+			</stockimage>
+		</template>
+	</page>
+	<page number="20">
+		<template id="54" default="true"
+			filename="Product (0055) BACK_PAGE_STOCK.png"
+			templateName="BACK_PAGE_STOCK"
+			templateDescriptionFile="BACK_PAGE_STOCK.xml" orientation="STOCK">
+			<stockimage nodeId="2" orientation="STOCK"
+				filename="StockImage">
+			</stockimage>
+		</template>
+	</page>
+</book>

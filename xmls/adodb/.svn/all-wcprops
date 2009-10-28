@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb
+END
+tohtml.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/tohtml.inc.php
+END
+adodb-exceptions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/adodb-exceptions.inc.php
+END
+adodb-memcache.lib.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/adodb-memcache.lib.inc.php
+END
+xmlschema03.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/xmlschema03.dtd
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/license.txt
+END
+adodb-pear.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/adodb-pear.inc.php
+END
+adodb.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/adodb.inc.php
+END
+adodb-errorpear.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/adodb-errorpear.inc.php
+END
+pivottable.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/pivottable.inc.php
+END
+adodb-perf.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/adodb-perf.inc.php
+END
+toexport.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/toexport.inc.php
+END
+adodb-time.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/adodb-time.inc.php
+END
+adodb-iterator.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/adodb-iterator.inc.php
+END
+server.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/server.php
+END
+adodb-xmlschema.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/adodb-xmlschema.inc.php
+END
+adodb-active-record.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/adodb-active-record.inc.php
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/readme.txt
+END
+adodb-xmlschema03.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/adodb-xmlschema03.inc.php
+END
+rsfilter.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/rsfilter.inc.php
+END
+adodb-php4.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/adodb-php4.inc.php
+END
+adodb-pager.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/adodb-pager.inc.php
+END
+adodb-lib.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/adodb-lib.inc.php
+END
+adodb-csvlib.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/adodb-csvlib.inc.php
+END
+adodb-datadict.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/adodb-datadict.inc.php
+END
+adodb-active-recordx.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/adodb-active-recordx.inc.php
+END
+xmlschema.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/xmlschema.dtd
+END
+adodb-error.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/adodb-error.inc.php
+END
+adodb-errorhandler.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/adodb-errorhandler.inc.php
+END

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<COrder>
+	<Book><pages>
+		<page number="4">
+			<template id="215" name="FORMAL_PORTRAIT_1_2UP_8x10_HFVF">
+				<placeholder nodeId="1">
+					<image swaped="false" BulkImageID="none" orientation="VF" fullImagePath="" cropLeft="0.15489255621321" cropTop="0.234652362563" cropWidth="0.23452323564" cropHeight="0.9643543213213"></image>
+					</placeholder>
+				<placeholder nodeId="2">
+					<image swaped="true" BulkImageID="1220" orientation="HF" fullImagePath="http://domain/userimages/186/stairs/R13_dsc101" cropLeft="0.15489255621321" cropTop="0.234652362563" cropWidth="0.23452323564" cropHeight="0.9643543213213">
+					</image>
+				</placeholder></template>
+			<swaplist>
+				<image swaped="false" BulkImageID="1221" orientation="HF" fullImagePath="http://domain/userimages/186/stairs/R13_dsc102" cropLeft="0.15489255621321" cropTop="0.234652362563" cropWidth="0.23452323564" cropHeight="0.9643543213213">
+				</image>
+				<image swaped="false" BulkImageID="1222" orientation="HF" fullImagePath="http://domain/userimages/186/stairs/R13_dsc103" cropLeft="0.15489255621321" cropTop="0.234652362563" cropWidth="0.23452323564" cropHeight="0.9643543213213">
+				</image>
+				<image swaped="false" BulkImageID="1223" orientation="HF" fullImagePath="http://domain/userimages/186/stairs/R13_dsc104" cropLeft="0.15489255621321" cropTop="0.234652362563" cropWidth="0.23452323564" cropHeight="0.9643543213213">
+				</image>
+				<image swaped="false" BulkImageID="1224" orientation="VF" fullImagePath="http://domain/userimages/186/stairs/R13_dsc105" cropLeft="0.15489255621321" cropTop="0.234652362563" cropWidth="0.23452323564" cropHeight="0.9643543213213">
+				</image>
+				<image swaped="false" BulkImageID="1225" orientation="VF" fullImagePath="http://domain/userimages/186/stairs/R13_dsc106" cropLeft="0.15489255621321" cropTop="0.234652362563" cropWidth="0.23452323564" cropHeight="0.9643543213213">
+				</image>
+			</swaplist></page>
+		<page number="5">
+			<template id="52" name="DINING_1_1UP_8x10_HF">
+				<placeholder nodeId="1">
+					<image swaped="false" BulkImageID="1345" orientation="HF" fullImagePath="http://domain/userimages/186/stairs/R13_dsc1003" cropLeft="0.15489255621321" cropTop="0.234652362563" cropWidth="0.23452323564" cropHeight="0.9643543213213">
+					</image>
+				</placeholder>
+			</template>
+			<swaplist>
+				<image swaped="false" BulkImageID="1345" orientation="VF" fullImagePath="http://domain/userimages/186/stairs/R13_dsc1004" cropLeft="0.15489255621321" cropTop="0.234652362563" cropWidth="0.23452323564" cropHeight="0.9643543213213">
+				</image></swaplist>
+		</page></pages></Book>
+	<User firstTime="true" firtPlaceholder="4_152_1" swappedImages="1" upid="17300"></User></COrder>
+
+

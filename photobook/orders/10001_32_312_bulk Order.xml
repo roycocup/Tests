@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HalseOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" orderNumber="Police demo" orderType="Bulkorder">
+  <Image filename="\\HUGH-T5400\H2\IMAGES\POLICE - CLOUDBASE\POLICE DEMO\DSC01074.JPG" BII="3">
+    <Templatepointers id="4" cropTop="0.023809523809523829" cropLeft="0" cropWidth="1" cropHeight="0.95238095238095233" />
+  </Image>
+  <Image filename="\\HUGH-T5400\H2\IMAGES\POLICE - CLOUDBASE\POLICE DEMO\DSC01185.JPG" BII="11">
+    <Templatepointers id="4" cropTop="0.023809523809523829" cropLeft="0" cropWidth="1" cropHeight="0.95238095238095233" />
+  </Image>
+  <Image filename="\\HUGH-T5400\H2\IMAGES\POLICE - CLOUDBASE\POLICE DEMO\DSC01186.JPG" BII="12">
+    <Templatepointers id="4" cropTop="0.023809523809523829" cropLeft="0" cropWidth="1" cropHeight="0.95238095238095233" />
+  </Image>
+  <Image filename="\\HUGH-T5400\H2\IMAGES\POLICE - CLOUDBASE\POLICE DEMO\DSCF0013.JPG" BII="13">
+    <Templatepointers id="4" cropTop="0.023809523809523829" cropLeft="0" cropWidth="1" cropHeight="0.95238095238095233" />
+  </Image>
+  <Image filename="\\HUGH-T5400\H2\IMAGES\POLICE - CLOUDBASE\POLICE DEMO\DSCF0014.JPG" BII="14">
+    <Templatepointers id="4" cropTop="0.023809523809523829" cropLeft="0" cropWidth="1" cropHeight="0.95238095238095233" />
+  </Image>
+  <OrderStatus id="0" />
+</HalseOrder>

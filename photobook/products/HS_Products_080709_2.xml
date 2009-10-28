@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HalseTemplates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HalseTemplate type="Halse" id="15" label="PhotoBook_Page2_VF" layoutfile="15" u_id="15" Orientation="2" layoutpreview="Previews\Product (0015) PhotoBook_Page2_VF.png" flags="1" productType="3" width="11" height="8.5" dbCropTop="0" dbCropLeft="0" dbCropWidth="0" dbCropHeight="0" defaultAR="0.800000011920929">
+    <Node id="1" type="overlay" zOrder="5" top="0" left="0" width="10.9931621551514" height="8.49704742431641" centre_X="5.4965810775757" centre_Y="4.2485237121582049" rotation="0">
+      <Image />
+    </Node>
+    <Node id="2" type="image" zOrder="1" top="0.745984971523285" left="0" width="5.15806722640991" height="6.41353273391724" centre_X="2.5790336132049552" centre_Y="3.9527513384819049" rotation="0" bgColour="255,255,255,255" />
+    <Node id="3" type="text" zOrder="3" top="0.495803564786911" left="0.188063427805901" width="4.40011405944824" height="0.222256779670715" centre_X="2.3881204575300212" centre_Y="0.60693195462226845" rotation="0" />
+    <Node id="4" type="text" zOrder="4" top="0.213708430528641" left="0.205160096287727" width="4.40011405944824" height="0.222256779670715" centre_X="2.4052171260118471" centre_Y="0.32483682036399852" rotation="0" editable="false" />
+  </HalseTemplate>
+</HalseTemplates>

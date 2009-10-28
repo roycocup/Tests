@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CO>
+<book pageWidth="600" pageHeight="464">
+	<pages>
+		<page number="1">
+			<template id="EMBARKATION_1_1UP_8x10_HF">
+				<placeholder nodeId="2">
+					<selectedImage>
+						<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/stockImages/BOOK_SH_01_01.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					</selectedImage>
+				</placeholder>
+				<swapList>
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_01_02.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_01_03.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_01_04.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_01_05.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_01_06.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_01_07.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_01_08.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_01_09.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+				</swapList>
+ 			</template>
+		</page>
+		
+		<page number="2">
+			<template id="OASIS_SPREAD_STOCK_1">
+				<placeholder nodeId="2">
+					<selectedImage>
+						<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/stockImages/BOOK_SH_02_01.png"  
+									cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					</selectedImage>
+				</placeholder>
+				<swapList>
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_02_02.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_02_03.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_02_04.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_02_05.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_02_06.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_02_07.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_02_08.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_02_09.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+				</swapList>
+ 			</template>
+		</page>
+		
+		<page number="3">
+			<template id="OASIS_SPREAD_STOCK_2">
+				<placeholder nodeId="2">
+					<selectedImage>
+						<image swapped="false" orientation="VF" bulkImageId="none" fullImagePath="img/book/stockImages/BOOK_SH_03_01.png"  
+									cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					</selectedImage>
+				</placeholder>
+				<swapList>
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_03_02.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_03_03.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_03_04.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_03_05.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_03_06.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_03_07.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_03_08.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_03_09.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+				</swapList>
+ 			</template>
+		</page>
+		
+		
+		<page number="4">
+			<template id="FORMAL_PORTRAIT_1_2UP_8x10_HFVF">
+				<placeholder nodeId="2">
+					<selectedImage>
+						<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/stockImages/BOOK_SH_04_01.png"  
+									cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					</selectedImage>
+				</placeholder>
+				<placeholder nodeId="3" >
+					<selectedImage>
+						<image swapped="false" orientation="VF" bulkImageId="none" fullImagePath="img/book/stockImages/BOOK_SH_04_01.png"  
+									cropLeft="" cropTop="" cropWidth="" cropHeight="" />
+					</selectedImage>
+				</placeholder>
+ 				<swapList>
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_04_02.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_04_03.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_04_04.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_04_05.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_04_06.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_04_07.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_04_08.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_04_09.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+				</swapList>
+ 			</template>
+		</page>
+		
+		<page number="5">
+			<template id="FORMAL_PORTRAIT_2_2UP_8x10_HFVF">
+				<placeholder nodeId="2">
+					<selectedImage>
+						<image swapped="false" orientation="VF" bulkImageId="none" fullImagePath=""  cropLeft="" cropTop="" cropWidth="" cropHeight="" />
+					</selectedImage>
+				</placeholder>
+				<swapList>
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_05_02.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_05_03.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_05_04.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_05_05.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_05_06.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_05_07.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_05_08.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_05_09.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+				</swapList>
+ 			</template>
+		</page>
+
+		<page number="6">
+			<template  id="DINING_1_1UP_8x10_HF">
+				<placeholder nodeId="2"> 
+					<selectedImage>
+						<image swapped="false" orientation="VF" bulkImageId="none" fullImagePath=""  cropLeft="" cropTop="" cropWidth="" cropHeight="" />
+					</selectedImage>
+				</placeholder>
+				<swapList>
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_06_02.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_06_03.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_06_04.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_06_05.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_06_06.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_06_07.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_06_08.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_06_09.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+				</swapList>
+ 			</template>
+		</page>
+
+		<page number="7">
+			<template  id="DINING_2_1UP_8x10_HF">
+				<placeholder nodeId="2">
+					<selectedImage>
+						<image swapped="false" orientation="VF" bulkImageId="none" fullImagePath=""  
+									cropLeft="" cropTop="" cropWidth="" cropHeight="" />
+					</selectedImage>
+				</placeholder>
+				<swapList>
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_07_02.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_07_03.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_07_04.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_07_05.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_07_06.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_07_07.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_07_08.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_07_09.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+				</swapList>
+ 			</template>
+		</page>
+
+		<page number="8">
+			<template id="BOARDWALK_1_2UP_6x8_HFVF" templateFullPath="img/book/BOARDWALK_1_2UP_6x8_HFVF.png" >
+				<placeholder nodeId="2">
+					<selectedImage>
+						<image swapped="false" orientation="VF" bulkImageId="none" fullImagePath=""  
+									cropLeft="" cropTop="" cropWidth="" cropHeight="" />
+					</selectedImage>
+				</placeholder>
+				<swapList>
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_08_02.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_08_03.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_08_04.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_08_05.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_08_06.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_08_07.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_08_08.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+					<image swapped="false" orientation="VF" bulkImageId="1433" fullImagePath="img/book/customerImages/BOOK_SH_08_09.png"  
+								cropLeft="0.1112312" cropTop="0.1112312" cropWidth="0.0023" cropHeight="0.333" />
+				</swapList>
+ 			</template>
+		</page>
+	</pages>
+	
+</book>
+<user firstTime="true" firstPlaceholder="4_152_1" swappedImages="1" upid="17300">
+</user>
+</CO>

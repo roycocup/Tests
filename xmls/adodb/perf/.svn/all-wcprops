@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/perf
+END
+perf-oci8.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/perf/perf-oci8.inc.php
+END
+perf-mssqlnative.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/perf/perf-mssqlnative.inc.php
+END
+perf-informix.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/perf/perf-informix.inc.php
+END
+perf-postgres.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/perf/perf-postgres.inc.php
+END
+perf-mysql.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/perf/perf-mysql.inc.php
+END
+perf-db2.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/perf/perf-db2.inc.php
+END
+perf-mssql.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/imageProPhotos/!svn/ver/2031/kioskV3/webservices/system/classes/adodb/perf/perf-mssql.inc.php
+END

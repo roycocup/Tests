@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HalseTemplates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HalseTemplate type="Halse" id="42" label="SPORTS_POOL_DECK_2_2UP_6x8_VFVF" layoutfile="42" u_id="42" layoutpreview="Previews\Product (0042) SPORTS_POOL_DECK_2_2UP_6x8_VFVF.png" flags="3" productType="3" width="11" height="8.5" price="0.00" dbCropTop="0" dbCropLeft="0" dbCropWidth="0" dbCropHeight="0" defaultAR="0.800000011920929" autoRotate="false">
+    <Node id="1" type="overlay" zOrder="4" top="0" left="0" width="11" height="8.5" centre_X="5.5" centre_Y="4.25" rotation="0" editable="false">
+      <Image filename="SPORTS_POOL_DECK_2_2UP_6x8_VFVF\SPORTS_POOL_DECK_2_2UP_6X8_VFVF.PNG" cropWidth="1" cropHeight="1" />
+    </Node>
+    <Node id="2" type="image" zOrder="1" top="1.30999481678009" left="0.659783065319061" width="4.49333333969116" height="5.9466667175293" centre_X="2.906449735164641" centre_Y="4.2833281755447405" rotation="0" bgColour="255,255,255,255" cellFlags="1028" editable="false" defaultImage="SPORTS_POOL_DECK_2a_STOCK_VF.JPG"/>
+    <Node id="3" type="image" zOrder="2" top="3.30019116401672" left="5.16659879684448" width="3.3033332824707" height="4.47666645050049" centre_X="6.8182654380798295" centre_Y="5.5385243892669651" rotation="0" bgColour="255,255,255,255" cellFlags="1028" editable="false" defaultImage="SPORTS_POOL_DECK_2b_STOCK_VF.JPG"/>
+    <Node id="4" type="text" zOrder="0" top="3.29381054639816" left="-2.0139857158064842" width="4.40025520324707" height="0.17228376865387" centre_X="-1.9278438314795492" centre_Y="5.4939381480216953" rotation="270" editable="false">
+      <Text text="#x{12}Order ID and Stateroom" originalText="#x{12}Order ID and Stateroom" font="Arial                    " fontsize="6" colour="0,0,0,255" align="left" cellFlags="0" />
+    </Node>
+  </HalseTemplate>
+</HalseTemplates>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HalseTemplates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HalseTemplate type="Halse" id="46" label="PORTRAIT_2_2UP_8x10_HFVF" layoutfile="46" u_id="46" layoutpreview="Previews\Product (0046) PORTRAIT_2_2UP_8x10_HFVF.png" flags="3" productType="3" width="11" height="8.5" price="0.00" dbCropTop="0" dbCropLeft="0" dbCropWidth="0" dbCropHeight="0" defaultAR="0.800000011920929" autoRotate="false">
+    <Node id="1" type="overlay" zOrder="4" top="0" left="0" width="11" height="8.5" centre_X="5.5" centre_Y="4.25" rotation="0" editable="false">
+      <Image filename="PORTRAIT_2_2UP_8x10_HFVF\PORTRAIT_2_2UP_8X10_HFVF.PNG" cropWidth="1" cropHeight="1" />
+    </Node>
+    <Node id="2" type="image" zOrder="1" top="2.90330076217651" left="1.60351526737213" width="2.83666658401489" height="3.52999997138977" centre_X="3.021848559379575" centre_Y="4.6683007478713954" rotation="0" bgColour="255,255,255,255" cellFlags="1028" editable="false" defaultImage="PORTRAIT_2a_STOCK_VF.JPG"/>
+    <Node id="3" type="image" zOrder="2" top="1.27362370491028" left="4.46023559570313" width="5.92999982833862" height="4.76000022888184" centre_X="7.42523550987244" centre_Y="3.6536238193512003" rotation="0" bgColour="255,255,255,255" cellFlags="1028" editable="false" defaultImage="PORTRAIT_2a_STOCK_HF.JPG"/>
+    <Node id="4" type="text" zOrder="0" top="3.29381054639816" left="-2.0139857158064842" width="4.40025520324707" height="0.17228376865387" centre_X="-1.9278438314795492" centre_Y="5.4939381480216953" rotation="270" editable="false">
+      <Text text="#x{12}Order ID and Stateroom" originalText="#x{12}Order ID and Stateroom" font="Arial                    " fontsize="6" colour="0,0,0,255" align="left" cellFlags="0" />
+    </Node>
+  </HalseTemplate>
+</HalseTemplates>
